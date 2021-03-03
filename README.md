@@ -1,4 +1,5 @@
 # ECO-FRIENDLY CITY LOCATOR
+![image](iStock_000021421231XSmall.jpg)
 
 In this era of fast-growing community and Industries upcoming future of earth doesn’t seems so bright. Due
 to huge increment in population density and pollution (water, air, land, noise) places are becoming less
